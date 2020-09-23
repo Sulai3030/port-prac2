@@ -8,6 +8,7 @@ import Blog from "../views/Blog.vue";
 
 Vue.use(VueRouter);
 
+
 const routes = [
   {
     path: "/",
