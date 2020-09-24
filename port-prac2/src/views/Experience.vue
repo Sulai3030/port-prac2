@@ -1,13 +1,9 @@
 <template>
-  <div>
-    <b-container class="bv-example-row">
-      <b-row>
-        <b-col class="col-xs-12"></b-col>
-      </b-row>
-      <b-row>
-        <b-col class="col-auto mb-3">
-          <div class="row justify-content-center">
-            <b-card class="card" style="width: 18rem;">
+<div>
+<b-container class="bv-example-row">
+  <b-row>
+     <b-col>
+       <b-card class="card" style="width: 110rem;">
               <b-card-text class="text-left">
                 <p class="text-left"></p>
               </b-card-text>
@@ -19,7 +15,6 @@
               <p>
                 Party Dash| https://partydash.com/
               </p>
-
               <p>Front-End Design</p>
               We built Party Dash with a simple goal in mind: to help party
               hosts plan parties more easily
@@ -29,19 +24,15 @@
                 Used CSS and HTML to create inviting website Technologies used:
                 HTML, CSS, Bootstra
               </li>
-
               <p>Technologies used: HTML, CSS, Bootstrap</p>
               <hr />
-            </b-card>
-            <b-card class="card" style="width: 18rem;">
-              <b-card-text class="text-left">
-                <p class="text-left"></p>
-              </b-card-text>
-              <p class="text-left">
-                <a href="partydash.com" target="_blank"><p></p></a>
-              </p>
-              <p>
-                Mayapple Center for the Arts and Humanities
+        </b-card>
+     </b-col>
+  </b-row>
+  <b-row>
+    <b-col>
+      <p class="text-center">
+        Mayapple Center for the Arts and Humanities
                 <a href="http://www.mayapplecenter.org/" target="_blank"
                   ><p>http://www.mayapplecenter.org/</p></a
                 >
@@ -78,113 +69,19 @@
                   scholarships
                 </li>
               </ul>
-
               <p>
                 Responsibilities: Follow design specs handed down from site
                 owner. Used CSS and HTML to create inviting website Technologies
                 used: HTML, CSS, Bootstrap
               </p>
-
               <p>Technologies used: HTML, CSS, Bootstrap</p>
               <hr />
-            </b-card>
-            <br />
-            <b-card class="card" style="width: 18rem;">
-              <b-card-text class="text-left">
-                <p class="text-left"></p>
-              </b-card-text>
-              <p class="text-left">
-                <a href="partydash.com" target="_blank"><p></p></a>
-              </p>
-              <p>
-                <a href="https://www.regeneron.com/" target="_blank"
-                  ><p>Regeneron, Inc.</p></a
-                >
-                New York, NY
-              </p>
-
-              <p>
-                Technical Writer/ Content Management Writer/Editor, Independent
-                Contractor
-              </p>
-              <p>
-                Created and edited complex technical documentation (Runbooks,
-                cheat sheets, etc.) in plain language that allowed clear
-                communication between technical and non-technical end-users in
-                understanding standard operating procedure (SOP) of different
-                departments (IT, Laboratories, etc.). Collaborated with Project
-                Managers & Subject Matter Experts (SMEs) to develop and maintain
-                site content (FTP, Networking, etc.) for divisions by conducting
-                face-to-face and teleconference interviews with SMEs about the
-                day-to-day operations of each division to accumulate Mission
-                Critical data. Individually created User-facing documentation
-                through SharePoint to implement a smooth continuation of company
-                business if Mission Critical issues occurred.
-              </p>
-              <p>
-                Key Accomplishments:
-              </p>
-              <ul>
-                <li>
-                  Interviewed 8 SMEs (division heads and assistant managers) for
-                  each division to accumulate all necessary data
-                </li>
-                <li>
-                  Utilized SME-obtained data to create FTP, Network, and IT
-                  Runbook from project start to project finish
-                </li>
-                <li></li>
-              </ul>
-
-              <p class="text-center"></p>
+                </b-col>
+              </b-row>
+              <b-row>
+              <b-col>
               <hr />
-              <a href="spruce.com" target="_blank"
-                ><p>Spruce Technology Inc</p></a
-              >
-
-              <p>
-                http://www1.nyc.gov/site/buildings/index.page
-              </p>
-
-              <p>Technical Writer, Independent Contractor</p>
-              Wrote and edited complex technical information to present in a
-              clear concise way as User Guides and Manuals to aid end-users such
-              as architects, contractors, superintendents and the general public
-              in understanding and using the online portal for the New York
-              City’s Department of Buildings’ website (Microsoft Dynamics CRM
-              platform). Transformed pre-existing design specifications, project
-              plans, text plans, research and business correspondence into
-              online templates for general public access.
-              <p>Key Accomplishments:</p>
-              <li>
-                Converted thousands of pre-existing paper documents from the
-                Department of Building’s inception in 1936 into
-                easily-accessible and understandable online information that is
-                easily accessed and used by the general public handed down from
-                site owner
-              </li>
-              <li>
-                Transformed paper documents required of NYC citizens,
-                businesses, homeowners, architects, etc. seeking government
-                permission to perform repairs, modifications, builds,
-                scaffoldings, etc., into easily found usable online templates
-              </li>
-              <li>
-                Created content for About, Tenant, Homeowner, Business,
-                Industry, Safety, and Codes portals
-              </li>
-              <li>Designed flowcharts in MS Visio for Instruction Manuals</li>
-
-              <p></p>
-            </b-card>
-            <b-card class="card" style="width: 18rem;">
-              <b-card-text class="text-left">
-                <p class="text-left"></p>
-              </b-card-text>
-              <p class="text-left">
-                <a href="partydash.com" target="_blank"><p></p></a>
-              </p>
-              <hr />
+            <b-card>
               <p class="text-center">
                 <a href="https://nymedicaidchoice.com/" target="_blank"
                   ><p>Maximus</p></a
@@ -224,7 +121,6 @@
                 concise and easily understandable materials that was distributed
                 to the general public
               </li>
-
               <p></p>
             </b-card>
             <b-card class="card" style="width: 18rem;">
@@ -245,7 +141,6 @@
                   ><p>Columbia University</p></a
                 >
               </p>
-
               <p>
                 Full Stack Web Development bootcamp An intensive 24-week long
                 boot dedicated to designing and building web applications.
@@ -263,7 +158,6 @@
                 Bachelor of Arts in Philosophy: Emory University - Atlanta, GA
               </p>
             </b-card>
-          </div>
         </b-col>
       </b-row>
     </b-container>
