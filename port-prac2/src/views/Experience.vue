@@ -3,7 +3,7 @@
 <b-container class="bv-example-row">
   <b-row>
      <b-col>
-       <b-card class="card" style="width: 110rem;">
+       <b-card class="card" style="width: 80rem;">
               <b-card-text class="text-left">
                 <p class="text-left"></p>
               </b-card-text>

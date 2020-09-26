@@ -1,12 +1,12 @@
 <template>
   <div id="app">
-    <b-card border-variant="success" header="Success" align="center">
+    <b-card border-variant="success" header="" align="left">
       <b-media>
         <template v-slot:aside>
           <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
         </template>
 
-        <h5 class="mt-0">Middle Eastern Summer Salad</h5>
+        <h5 class="mt-0"> Middle Eastern Summer Salad</h5>
         <p>
           Summer is upon us which means two things, one, it is too hot to turn
           on the stove and two salads are at their apex of deliciousness.
