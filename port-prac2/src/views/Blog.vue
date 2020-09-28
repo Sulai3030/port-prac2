@@ -47,23 +47,10 @@
         <p>• ½ Cup diced onion (red onion is less aggressive)</p>
         <p>• 1 Pint grape Tomatoes or 1 large vine ripened Tomato, diced</p>
         <p>• 4 sweet peppers (Red, Yellow, Orange) seeded and diced</p>
-
-        <b-media>
-          <template v-slot:aside>
-            <b-img
-              blank
-              blank-color="#ccc"
-              width="64"
-              alt="placeholder"
-            ></b-img>
-          </template>
-
-          <h5 class="mt-0">Nested Media</h5>
-          <p class="mb-0">
-            Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
-            congue felis in faucibus.
-          </p>
-        </b-media>
+        <p>Start by whisking the dressing ingredients. Taste your dressing and add more of whatever seems to be lacking. Typically that’s salt but I found <p>that I needed more cayenne and oregano too.
+        Place the chickpeas, black beans, diced red onion, diced tomatoes, and diced peppers in a separate bowl. </p>
+        <p></p>Toss with the dressing to coat and let sit for about an hour to really get the flavors mixing. Serve with a nice lamb chop or alone, your choice.
+        Mangia and enjoy!
       </b-media>
     </b-card>
   </div>
