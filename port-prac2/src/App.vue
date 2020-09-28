@@ -33,6 +33,11 @@
     }
   }
 }
+#skills{
+  width: 1400px;
+  align-self: center;
+  margin-left: 200px;
+}
 </style>
 
 <script></script>

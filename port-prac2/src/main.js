@@ -23,6 +23,21 @@ Vue.component('b-row', BRow)
 import { BCardGroup } from 'bootstrap-vue'
 Vue.component('b-card-group', BCardGroup)
 
+import { BListGroup } from 'bootstrap-vue'
+Vue.component('b-list-group', BListGroup)
+
+import { BListGroupItem } from 'bootstrap-vue'
+Vue.component('b-list-group-item', BListGroupItem)
+
+import { BMedia } from 'bootstrap-vue'
+Vue.component('b-media', BMedia)
+
+import { BImg } from 'bootstrap-vue'
+Vue.component('b-img', BImg)
+
+import { BLink } from 'bootstrap-vue'
+Vue.component('b-link', BLink)
+
 Vue.config.productionTip = false;
 
 new Vue({
