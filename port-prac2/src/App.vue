@@ -17,7 +17,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
-  color: #2c3e50;
+  color: #356643;
+  background-color: fff;
 }
 
 #nav {
@@ -29,12 +30,12 @@
     color: #2c3e50;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: #81B38F;
     }
   }
 }
 #skills{
-  width: 1400px;
+  width: 1000px;
   align-self: center;
   margin-left: 200px;
 }

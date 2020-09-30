@@ -2,10 +2,6 @@
   <div id="app">
     <b-card border-variant="success" header="" align="left">
       <b-media>
-        <template v-slot:aside>
-          <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
-        </template>
-
         <h5 class="mt-0"> Middle Eastern Summer Salad</h5>
         <p>
           Summer is upon us which means two things, one, it is too hot to turn
@@ -25,28 +21,28 @@
           Ingredients:
         </p>
         <p>For the Dressing:</p>
-        <p>
-          • 4 cloves diced garlic (less if you are sensitive to the strength of
-          garlic but honestly the more the merrier!
-        </p>
-        <p>•3 Tablespoons of Lemon juice (1 fresh lemon)</p>
-        <p>• 6 Tablespoons of Lime juice (2 fresh Limes)</p>
-        <p>• 3 Tablespoons of Olive Oil plus more to taste</p>
-        <p>• ¼ cup minced fresh Basil or 1/3 cup dried basil</p>
-        <p>• 1 Tablespoon chopped Parsley</p>
-        <p>• 1 Teaspoon Honey</p>
-        <p></p>
-        <p>•</p>
-        <p>Salt (to taste)</p>
-        <p>• Pepper</p>
-        <p>• ¼ Teaspoon cayenne pepper</p>
-        <p>• Dash Mint</p>
-        <p>• Dash Oregano For the Salad:</p>
-        <p>• 1 Can Chickpeas, drained</p>
-        <p>• 1 Can Black beans, drained</p>
-        <p>• ½ Cup diced onion (red onion is less aggressive)</p>
-        <p>• 1 Pint grape Tomatoes or 1 large vine ripened Tomato, diced</p>
-        <p>• 4 sweet peppers (Red, Yellow, Orange) seeded and diced</p>
+        <ul>
+            <li>4 cloves diced garlic (less if you are sensitive to the strength of
+            garlic but honestly the more the merrier!</li>
+            <li> 3 Tablespoons of Lemon juice (1 fresh lemon)
+            <li> 6 Tablespoons of Lime juice (2 fresh Limes)
+            <li> 3 Tablespoons of Olive Oil plus more to taste
+            <li> ¼ cup minced fresh Basil or 1/3 cup dried basil
+            <li> 1 Tablespoon chopped Parsley
+            <li> 1 Teaspoon Honey
+        
+        
+            <li>Salt (to taste)
+            <li> Pepper
+           <li>  ¼ Teaspoon cayenne pepper
+            <li> Dash Mint
+            <li> Dash Oregano For the Salad:
+           <li>  1 Can Chickpeas, drained
+            <li> 1 Can Black beans, drained
+            <li> ½ Cup diced onion (red onion is less aggressive)
+            <li> 1 Pint grape Tomatoes or 1 large vine ripened Tomato, diced
+            <li> 4 sweet peppers (Red, Yellow, Orange) seeded and diced</li>
+        </ul>
         <p>Start by whisking the dressing ingredients. Taste your dressing and add more of whatever seems to be lacking. Typically that’s salt but I found <p>that I needed more cayenne and oregano too.
         Place the chickpeas, black beans, diced red onion, diced tomatoes, and diced peppers in a separate bowl. </p>
         <p></p>Toss with the dressing to coat and let sit for about an hour to really get the flavors mixing. Serve with a nice lamb chop or alone, your choice.

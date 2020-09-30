@@ -1,7 +1,7 @@
 <template>
   <b-container>
-    <b-row class="mb-3">
-      <b-col md="4"
+    <b-row class="mb-5">
+      <b-col md="8"
         >Project 1.
         <p>
           Party Dash|
@@ -36,7 +36,7 @@
       <b-col cols="auto" class="p-3"></b-col><br />
     </b-row>
     <b-row class="mb-3" align-h="start">
-      <b-col md="4"
+      <b-col md="8"
         >Project 2.
         <p>
           RuneSkype
@@ -69,13 +69,13 @@
       ><br /><br />
       <b-col md="4" class="ml-auto"></b-col>
     </b-row>
-    <b-row class="mb-3">
+    <b-row class="mb-6">
       <b-col md="3" class="ml-md-auto"></b-col>
       <b-col md="3" class="ml-md-auto"></b-col>
     </b-row>
     <b-row>
       <b-col cols="auto" class="mr-auto"></b-col>
-      <b-col cols="auto" class="p-3"
+      <b-col cols="auto" class="p-4"
         >Project 3.
         <p>
           The GOAT Voter App |
@@ -104,7 +104,7 @@
       <b-col md="3" class="ml-md-auto p-3"></b-col>
     </b-row>
     <b-row>
-      <b-col cols="auto"></b-col>
+      <b-col cols="md=3" class="ml-md-auto p-3"></b-col>
       <b-col cols="auto"
         >Project 4.
         <p>
